@@ -1,11 +1,10 @@
-<!DOCTYPE HTML>
 
 <html>
 
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>The Toppers..!</title>
+	<title>Toppers The Family Salon</title>
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -64,7 +63,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.php">Toppers Family's World <em>.</em></a></div>
+					<div id="gtco-logo"><a href="index.php">Toppers</a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
